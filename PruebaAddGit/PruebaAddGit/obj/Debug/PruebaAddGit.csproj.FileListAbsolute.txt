@@ -1,0 +1,2 @@
+c:\users\carla\documents\visual studio 2015\Projects\PruebaAddGit\PruebaAddGit\bin\Debug\PruebaAddGit.exe.config
+C:\Users\Carla\Source\Repos\Proyecto.net\PruebaAddGit\PruebaAddGit\bin\Debug\PruebaAddGit.exe.config
